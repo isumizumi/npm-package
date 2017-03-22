@@ -1,0 +1,26 @@
+{
+  "name": "rupiah_in_words",
+  "version": "0.1.0",
+  "description": "Format large numbers in rupiah (number in words). Designed for helping student in Hacktiv8 (Phase 1).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isumizumi/npm-package.git"
+  },
+  "keywords": [
+    "number",
+    "in",
+    "words",
+    "rupiah",
+    "format"
+  ],
+  "author": "isumizumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isumizumi/npm-package/issues"
+  },
+  "homepage": "https://github.com/isumizumi/npm-package#readme"
+}
